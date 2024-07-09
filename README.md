@@ -31,4 +31,4 @@ Since the raw MNIST data comes in a binary format that is not immediately usable
 
 This is the Python version of the converter. There is also a .NET version available.
 
-Here is the blog article: [https://tjgokcen.com/converting-minst-data-to-csv-or-individual-files-using-python](https://tjgokcen.com/converting-minst-data-to-csv-or-individual-files-using-python)
+Here is the blog article: [https://tjgokcen.com/converting-mnist-data-to-csv-or-individual-files-using-python](https://tjgokcen.com/converting-mnist-data-to-csv-or-individual-files-using-python)
