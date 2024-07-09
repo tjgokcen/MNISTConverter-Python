@@ -29,6 +29,6 @@ If that link does not work or the files are not available, try this one: [https:
 
 Since the raw MNIST data comes in a binary format that is not immediately usable in ML.NET, our goal here is to convert this data into a more accessible format like CSV or a set of image files.
 
-This is the Pythin version of the converter. There is also a .NET version available.
+This is the Python version of the converter. There is also a .NET version available.
 
 Here is the blog article: [https://tjgokcen.com/converting-minst-data-to-csv-or-individual-files-using-python](https://tjgokcen.com/converting-minst-data-to-csv-or-individual-files-using-python)
